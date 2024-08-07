@@ -7,7 +7,7 @@
 
 ## Description
 
-Welcome to **Always Visible (Another Prayer for the Dying Horror Genre)** – an Android app that presents a unique literary adventure in the horror genre. This is not a game or a comic, but a book designed to immerse you in a world of thrilling stories inspired by classics like **“The Omen”** and **“The Ring”**. Despite its simplicity in format, this book is crafted to leave a lasting impression.
+Welcome to **Always Visible – Mobile Horror Story** – an Android app that presents a unique literary adventure in the horror genre. This is not a game or a comic, but a book designed to immerse you in a world of thrilling stories inspired by classics like **“The Omen”** and **“The Ring”**. Despite its simplicity in format, this book is crafted to leave a lasting impression.
 
 ## About the App
 
