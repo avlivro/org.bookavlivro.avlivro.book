@@ -3,7 +3,7 @@
 <p align="center">
   <img src="avlivro.png" alt="Always Visible – Mobile Horror Story" />
 </p>
-
+Tagline: The waves of truth tends to extinguish fire of the falsehood.
 
 ## Description
 
