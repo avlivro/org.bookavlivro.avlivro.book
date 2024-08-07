@@ -7,27 +7,27 @@
 
 ## Description
 
-Welcome to **Always Visible** – an Android app that presents a unique literary adventure in the horror genre. This is not a game or a comic, but a book designed to immerse you in a world of thrilling stories inspired by classics like “The Omen” and “The Ring”. Despite its simplicity in format, this book is crafted to leave a lasting impression.
+Welcome to **Always Visible (Another Prayer for the Dying Horror Genre)** – an Android app that presents a unique literary adventure in the horror genre. This is not a game or a comic, but a book designed to immerse you in a world of thrilling stories inspired by classics like **“The Omen”** and **“The Ring”**. Despite its simplicity in format, this book is crafted to leave a lasting impression.
 
 ## About the App
 
-**Always Visible** is a literary cocktail that blends elements from renowned authors and iconic horror films. Imagine a work influenced by the likes of the Strugatsky Brothers, Theodore Dreiser, and Bogomil Raynov, with a touch of homage to the literary greats of the past. This isn't your typical fan fiction; it’s a creative experiment that reimagines horror motifs into something uniquely captivating.
+**Always Visible (Another Prayer for the Dying Horror Genre)** is a literary cocktail that blends elements from renowned authors and iconic horror films. Imagine a work influenced by the likes of the **Strugatsky Brothers**, **Theodore Dreiser** and **Bogomil Raynov**, with a touch of homage to the literary greats of the past. This isn't your typical fan fiction; it’s a creative experiment that reimagines horror motifs into something uniquely captivating.
 
 ### Key Features
 
 - **Innovative Storytelling**: A rich narrative that transforms familiar horror themes into fresh, unexpected twists.
-- **Literary Homages**: Experience parodies and crossovers, including a daring mix of “The Picture of Dorian Gray” with “Alice in Wonderland” and “Snow White and the Seven Dwarfs”.
+- **Literary Homages**: Experience parodies and crossovers, including a daring mix of **“The Picture of Dorian Gray”** with **“Alice in Wonderland”** and **“Snow White and the Seven Dwarfs”**.
 - **Dynamic Plot**: From tear-jerking romances to gripping detective investigations, the story offers a roller-coaster of emotions.
 - **Multiple Main Characters**: Follow three distinct protagonists through a plot full of surprises and shifting tones.
 - **Open Ending**: Engage with an open-ended conclusion that invites you to interpret and imagine your own ending.
 
 ## Acknowledgements
 
-We extend our gratitude to the authors and creators whose works have inspired the creation of **Always Visible**. Your contributions to literature and horror have shaped this unique experiment.
+We extend our gratitude to the authors and creators whose works have inspired the creation of **Always Visible (Another Prayer for the Dying Horror Genre)**. Your contributions to literature and horror have shaped this unique experiment.
 
 ## How to Build
 
-Clone the repository using git clone https://github.com/avlivro/avlivro.github.io.git, then open the project in Android Studio by selecting "Open an existing project" and navigate to the directory where you cloned the repository, after which Android Studio will automatically sync and build the project, and you can run the app on an emulator or physical device.
+Clone the repository with git clone https://github.com/avlivro/org.bookavlivro.avlivro.book.git, open the project in Android Studio by selecting "Open an existing project" and navigating to the cloned directory, then build the project and run the app on an emulator or physical device.
 
 ## License
 
